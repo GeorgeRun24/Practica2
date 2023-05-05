@@ -174,3 +174,6 @@ allure generate
 
 allure serve allure-report/ -> command to run the Allure server
 ```
+
+# 7. Keep practicing... 🚀
+	
